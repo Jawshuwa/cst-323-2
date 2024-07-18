@@ -14,7 +14,7 @@ import com.gcu.business.UserBusinessService;
 import com.gcu.model.LoginModel;
 import com.gcu.model.UserDetails;
 
-import jakarta.validation.Valid;
+import javax.validation.Valid;
 
 @Controller
 @RequestMapping("/")
